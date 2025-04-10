@@ -1,4 +1,4 @@
-Restaurant-Website-Project
+##Restaurant-Website-Project
 
 This is Restaurant Website build using HTML, CSS and JavaScript.
 
